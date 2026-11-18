@@ -2,7 +2,7 @@
 
 Tracks the time-varying **direction of arrival (DOA)** of a moving sound source from a 16-channel MEMS microphone array, using a **delay-and-sum beamformer** adapted to wideband signals. MATLAB.
 
-Homework 1 for the course *Sound Analysis, Synthesis and Processing*, MSc in Music and Acoustic Engineering, Politecnico di Milano (a.y. 2023/2024).
+Homework 1 for the course *Sound Analysis, Synthesis and Processing*, MSc in Music and Acoustic Engineering, Politecnico di Milano (a.y. 2023/2024). Authors: Mattia Montanari, Giorgio Magalini, Flavio Ingenito.
 
 ## Setup
 
